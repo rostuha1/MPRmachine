@@ -1,0 +1,11 @@
+.list-cell {
+    -fx-alignment: center;
+    -fx-font-size: 20px;
+}
+
+.window-title {
+    -fx-glass-color: rgba(255, 0, 0, 0.4);
+    -fx-alignment: center;
+    -fx-fill: rgb(255, 150, 30);
+    -fx-font-weight: bold;
+}
